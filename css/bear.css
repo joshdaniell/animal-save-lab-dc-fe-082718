@@ -10,9 +10,9 @@ html {
 
 /* Write your solution here */
 
-@media (max-size: 1196px) {
+@media (min-size: 1196px) {
   #bear {
     left: 800px;
-    /*right: auto;*/
+    right: auto;
   }
 }
