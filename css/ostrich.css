@@ -13,6 +13,6 @@ html {
 @media (min-width: 972px) {
   #ostrich {
     top: 200px;
-    transform: rotate();
+    transform: rotate(180deg);
   }
 }
