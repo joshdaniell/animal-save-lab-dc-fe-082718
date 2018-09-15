@@ -12,9 +12,6 @@ html {
 
 @media (min-width: 400px) {
   #ostrich {
-    top: 200px;
-    left: 350px;
-    transform: skewY(340deg);
-    /*transform: scaleX(-1);*/
+    /*top: 200px;*/
   }
 }
