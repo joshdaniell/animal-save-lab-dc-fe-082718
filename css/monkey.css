@@ -11,5 +11,8 @@ html {
 /* Write your solution here */
 
 @media (min-width: 406px) and (max-width: 1170px) {
-  top: 10px;
+  #monkey {
+    top: 10px;
+  }
+  
 }
