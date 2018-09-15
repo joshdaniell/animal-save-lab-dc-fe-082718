@@ -13,6 +13,6 @@ html {
 @media (min-size: 1196px) {
   #bear {
     left: 800px;
-    right: initial;
+    right: none;
   }
 }
