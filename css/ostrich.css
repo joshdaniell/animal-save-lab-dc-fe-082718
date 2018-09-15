@@ -14,5 +14,6 @@ html {
   #ostrich {
     top: 200px;
     transform: skewY(340deg);
+    transform: scaleX(-1);
   }
 }
