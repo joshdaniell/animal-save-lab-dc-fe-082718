@@ -10,7 +10,7 @@ html {
 
 /* Write your solution here */
 
-@media (max-width: 400px) {
+@media (min-width: 400px) {
   #ostrich {
     top: 200px;
     transform: skewY(340deg);
